@@ -6,14 +6,14 @@ Method: GET
 url: https://jewel-api.herokuapp.com/jewel/
 ```
 ------------------------------------------------------------------------------
-###Get with ID
+### Get with ID
 ```
 Method: GET
 url: https://jewel-api.herokuapp.com/jewel/:id
 e.g: https://jewel-api.herokuapp.com/jewel/58673734f283560528493f3e
 ```
 ------------------------------------------------------------------------------
-###Insert Record
+### Insert Record
 ```
 Method: POST
 url: https://jewel-api.herokuapp.com/jewel/
@@ -43,7 +43,7 @@ e.g:
 }
 ```
 ------------------------------------------------------------------------------
-###Soft Delete
+### Soft Delete
 ```
 Method: DELETE
 url: https://jewel-api.herokuapp.com/jewel/:id
@@ -51,7 +51,7 @@ e.g: https://jewel-api.herokuapp.com/jewel/58673734f283560528493f3e
 ```
 
 ------------------------------------------------------------------------------
-###Number of invoices in DB
+### Number of invoices in DB
 ```
 Method: GET
 url: https://jewel-api.herokuapp.com/jewel-inv
